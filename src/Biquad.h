@@ -19,7 +19,7 @@
 #ifndef Biquad_h
 #define Biquad_h
 
-#include <Arduino.h>
+
 
 enum {
     bq_type_lowpass = 0,
